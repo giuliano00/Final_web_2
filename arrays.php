@@ -9,6 +9,7 @@ $navbar = [
     "Contacto" => "contacto",
     "Galeria" => "galeria",
     "juegos" => "juegos",
+
 ];
 
 
@@ -27,6 +28,7 @@ $juegos["juegos"] = ["yugioh", "castlevania", "dragonz", "gundam", "kingdom", "m
      
 
     ];
+    
 
     $galeria[] = [
         "nombre" => "Drag estreno : 12/5/19",
